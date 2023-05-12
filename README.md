@@ -3,7 +3,7 @@
 > This is a cryptocurrency tracker app. Users can add cryptocurrencies to their watchlist and gain insights on the cryptocurrencies.
 
 ```cmd
-git clone Link
+git clone https://github.com/Nihalsiddiqui355/CrypTo-Tracker.git
 ```
 
 ```cmd
