@@ -13,6 +13,8 @@ git clone https://github.com/Nihalsiddiqui355/CrypTo-Tracker.git
 
 ```cmd
 
+cd CrypTo-Tracker
+
 npm install
 
 ```
