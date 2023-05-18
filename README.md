@@ -2,7 +2,9 @@
 
 > This is a cryptocurrency tracker app. Users can add cryptocurrencies to their watchlist and gain insights on the cryptocurrencies.
 
-### Here link for projects preview   [Click Me](https://decodercrypto-tracker.netlify.app/)
+###  Preview====>   [Click Me](https://decodercrypto-tracker.netlify.app/)
+
+- How to setup here are few step.
 
 ```cmd
 git clone https://github.com/Nihalsiddiqui355/CrypTo-Tracker.git
